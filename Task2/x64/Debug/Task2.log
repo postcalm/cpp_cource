@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\stepic-c++\Task2\Source.cpp(85,8): error C2594: static_cast: неоднозначные преобразования "const ManBearPig *" в "const Unit *"
+C:\stepic-c++\Task2\Source.cpp(86,9): error C2561: main: функция должна возвращать значение
+C:\stepic-c++\Task2\Source.cpp(81): message : см. объявление "main"

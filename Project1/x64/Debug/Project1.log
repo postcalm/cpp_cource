@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\stepic-c++\Project1\Source.cpp(13,25): error C2440: инициализация: невозможно преобразовать "int **" в "const int **"
+C:\stepic-c++\Project1\Source.cpp(13,20): message : В результате преобразования теряются квалификаторы

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\stepic-c++\Task8\Source.cpp(34,9): warning C4101: m: неиспользованная локальная переменная
+  Task8.vcxproj -> C:\stepic-c++\Task8\x64\Debug\Task8.exe

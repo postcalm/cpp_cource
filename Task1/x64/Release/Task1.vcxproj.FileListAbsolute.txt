@@ -1,0 +1,2 @@
+C:\stepic-c++\task1\Task1\x64\Release\Task1.exe
+C:\stepic-c++\Task1\x64\Release\Task1.exe

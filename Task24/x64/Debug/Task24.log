@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\stepic-c++\Task24\Source.cpp(12,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\stepic-c++\Task24\Source.cpp(51): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty map_reduce<std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>,main::<lambda_61d53c39a6848920ceffb15b3682b858>,std::plus<_Ty>>(It,It,F1,F2,size_t)"
+          with
+          [
+              _Ty=int,
+              It=std::_List_iterator<std::_List_val<std::_List_simple_types<int>>>,
+              F1=main::<lambda_61d53c39a6848920ceffb15b3682b858>,
+              F2=std::plus<int>
+          ]
+  Task24.vcxproj -> C:\stepic-c++\Task24\x64\Debug\Task24.exe

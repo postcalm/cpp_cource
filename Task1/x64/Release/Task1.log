@@ -1,0 +1,6 @@
+﻿  task 1.cpp
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Task1.vcxproj -> C:\stepic-c++\Task1\x64\Release\Task1.exe
